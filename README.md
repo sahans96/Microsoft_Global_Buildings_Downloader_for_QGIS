@@ -3,6 +3,7 @@ A simple Jupyter notebook that integrates with the QGIS Notebook Plugin to downl
 
 # About Microsoft Global Buildings Dataset
 Microsoft's Global Buildings (MGB) dataset is a comprehensive collection of over 1 billion computer-generated building footprints covering most of the populated world. The dataset was created using deep learning models applied to Bing Maps satellite and aerial imagery.
+
 Key Features:
 
 🌍 Global coverage across Asia, Africa, Latin America, Caribbean, North America, Europe, and Oceania
@@ -12,6 +13,7 @@ Key Features:
 📈 Continuously updated and expanded
 
 Note: This is distinct from the Google-Microsoft Global Building Atlas, which focuses on building height and characteristics. MGB provides detailed 2D footprint geometries ideal for GIS analysis, urban planning, and mapping applications.
+
 ✨ Features
 
 No coding required - Just run the notebook cells in sequence
