@@ -1,4 +1,4 @@
-# Microsoft_Global_Buildings_Downloader_for_QGIS
+# Microsoft Global Buildings Downloader for QGIS
 A simple Jupyter notebook that integrates with the QGIS Notebook Plugin to download building footprints from Microsoft's Global Buildings dataset based on your current canvas extent.
 
 # About Microsoft Global Buildings Dataset
@@ -54,7 +54,7 @@ The open source geospatial community for tools like GeoPandas, Shapely, and Merc
 📚 Resources
 
 Microsoft Global Buildings Dataset
-QGIS Notebook Plugin
+QGIS Notebook Plugin https://github.com/opengeos/qgis-notebook-plugin
 Dataset Links CSV
 
 🐛 Troubleshooting
